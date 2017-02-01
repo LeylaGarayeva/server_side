@@ -1,0 +1,3 @@
+Client side buraya JavaScrip,tHTML,CSS,AJAX,jQuery kimi yalniz web browserde gorsenen diller aiddir. Onlarin bazayla bir adiyyati olmur. Front end-e aid edilir. Hemcinin aciq koddur. Yeni her kes bu kodlari gore bilir. 
+Server side ise buraya butun proqramlasdirma kodlari aid edilir, hansilarki backend adlanir ve birbasa bazaya baglanir. Onlari gormek mumkun deyil. Yalniz saytin oldugu hosta giris ede bilen sexsler gore biler.Onlara 
+ PHP,ASP.NET,C++,Java,Python,Ruby kimi proqramlasdirma dilleri aid edilir. 
